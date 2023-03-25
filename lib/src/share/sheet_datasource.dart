@@ -1,0 +1,3 @@
+String URL_COMPRA = "https://script.google.com/macros/s/AKfycbxR9cJ2koLpS6NW5fDVXRFhADouevA97na1NxX14P_926Fo_5PsF9Ub_2GelCFgy2dl/exec";
+String URL_ESTOQUE_ENTRADA = "https://script.google.com/macros/s/AKfycby_sUARxOgg9_j1C2UmT6y9-M-veZNCXkuT3OrGQfGw5TUJheCxpQAEthUaTwObARTZ/exec";
+String URL_ESTOQUE_SAIDA = "https://script.google.com/macros/s/AKfycbwTWOw618BUroqe2mLbs3_8YVMafaYBK7a3SjaSnMlxt_S5i2hLMBkWRn2HbYd8WBd3/exec";
